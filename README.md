@@ -1,4 +1,6 @@
-### Hi there 👋
+### hi! i'm andrew :)
+
+This profile description is still pending while I get around to actually writing it. Hopefully it's soon-ish! 
 
 <!--
 **andrewqqiu/andrewqqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
