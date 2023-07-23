@@ -1,6 +1,7 @@
 ### hi! i'm andrew :)
 
-This profile description is still pending while I get around to actually writing it. Hopefully it's soon-ish! 
+i'm currently a second year student at the university of auckland, studying a conjoint degree in computer science and communication. i've worked on some really random and diverse sets of projects, and generally do more design related things than programming (at the moment!). 
+
 
 <!--
 **andrewqqiu/andrewqqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
