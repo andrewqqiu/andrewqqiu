@@ -1,6 +1,8 @@
 ### hi! i'm andrew :)
 
-i'm currently a second year student at the university of auckland, studying a conjoint degree in computer science and communication. i've worked on some really random and diverse sets of projects, and generally do more design related things than programming (at the moment!). 
+currently a student at the university of auckland, waipapa taumata rau, studying a conjoint degree in communication and computer science.
+
+there are code projects here, but usually i'm a designer specializing in product, motion, and brand visuals. come say hi!
 
 
 <!--
